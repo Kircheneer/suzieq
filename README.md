@@ -114,7 +114,7 @@ We've done some blogging about Suzieq:
 * [Questions to Suzieq](https://elegantnetwork.github.io/posts/10qa-suzieq/)
 * [Time in Suzieq](https://elegantnetwork.github.io/posts/time-suzieq/)
 
-We've also been adding screencasts on (Youtube)[https://www.youtube.com/results?search_query=netenglabs].
+We've also been adding screencasts on [Youtube](https://www.youtube.com/results?search_query=netenglabs]).
 
 # Suzieq Priorities
 
